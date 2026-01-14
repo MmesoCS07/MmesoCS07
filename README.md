@@ -1,5 +1,6 @@
 # Hello, I'm Precious Obama
-<a href="https://www.linkedin.com/in/precious-mmesoma-obama-65683a345/><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/precious-mmesoma-obama-65683a345/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 ## Objective
 I am a Cybersecurity Student with a great intrest in Network Security and Scripting and i am always looking to expand my knowledge in all aspects of cybersecurity.Here i will be documenting my cybersecurity education through practical projects and research. Focused on mastering Python scripting and network anylysis with cisco packet tracer and adding certificates to my portfolio to further my research."
