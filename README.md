@@ -12,7 +12,7 @@ I am a Cybersecurity Student with a great intrest in Network Security and Script
 | Skill                                           | Associated Project                                                                 |
 |-------------------------------------------------|------------------------------------------------------------------------------------|
 | SIEM Implementation and Log Analysis             | <a href="https://github.com/yourusername/detection-lab">Detection Lab</a>           |
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/yourusername/detection-lab">Detection Lab</a>           |
+| Network Traffic Monitoring and Attack Detection  | <a href="https://github.com/yourusername/detection-lab">Detection Lab</a>           |
 | Security Automation with Shuffle SOAR            | <a href="https://github.com/yourusername/soc-automation-lab">SOC Automation Lab</a> |
 | Incident Response Planning and Execution         | <a href="https://github.com/yourusername/soc-automation-lab">SOC Automation Lab</a> |
 | Case Management with TheHive                     | <a href="https://github.com/yourusername/soc-automation-lab">SOC Automation Lab</a> |
@@ -44,7 +44,8 @@ I am a Cybersecurity Student with a great intrest in Network Security and Script
 ## Certifications
   ###IN PROGRESS
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
 </div>
 
 ## Projects
