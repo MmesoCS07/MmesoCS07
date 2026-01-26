@@ -9,14 +9,14 @@ I am a Cybersecurity Student with a great intrest in Network Security and Script
 ## Skills
 
 
-| Skill                                           | Associated Project                                                                 |
-|-------------------------------------------------|------------------------------------------------------------------------------------|
-| SIEM Implementation and Log Analysis             | <a href="https://github.com/yourusername/detection-lab">Detection Lab</a>           |
-| Network Traffic Monitoring and Attack Detection  | <a href="https://github.com/yourusername/detection-lab">Detection Lab</a>           |
-| Security Automation with Shuffle SOAR            | <a href="https://github.com/yourusername/soc-automation-lab">SOC Automation Lab</a> |
-| Incident Response Planning and Execution         | <a href="https://github.com/yourusername/soc-automation-lab">SOC Automation Lab</a> |
-| Case Management with TheHive                     | <a href="https://github.com/yourusername/soc-automation-lab">SOC Automation Lab</a> |
-| Scripting and Automation for Threat Mitigation   | <a href="https://github.com/yourusername/soc-automation-lab">SOC Automation Lab</a> |
+| Skill                                           | 
+|-------------------------------------------------|
+| SIEM Implementation and Log Analysis             |
+| Network Traffic Monitoring and Attack Detection  |
+| Security Automation with Shuffle SOAR            |
+| Incident Response Planning and Execution         |
+| Case Management with TheHive                     |
+| Scripting and Automation for Threat Mitigation   | 
 
 
 
