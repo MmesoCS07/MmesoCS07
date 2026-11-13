@@ -50,25 +50,8 @@ I am a Cybersecurity Student with a great intrest in Network Security and Script
 
 ## Projects
 
-### Security Labs
-- Brute  Force Detection Lab
-- SOC Automation Project
-- SIEM Log Ingestion & Alerting Lab
-- Incident Response Playbook Project
-- Phishing Detection & Analysis Lab
-- Endpoint Detection & Response (EDR) Lab
-- Vulnerability Scanning & Remediation Project
-- Threat Intelligence Integration Lab
-- Active Directory Security Lab
-- Network Traffic Analysis Lab
 
 ### Packet Tracer Projects
 - Small Business Network Design
 - Secure Enterprise Network with ACLs
 - Inter-VLAN Routing Project
-- Campus Network with Redundancy
-- WAN Routing Project (OSPF / EIGRP)
-- NAT & PAT Configuration Lab
-- Wireless Network Security Project
-- VPN Configuration Project
-- Network Troubleshooting Scenarios
