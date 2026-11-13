@@ -49,7 +49,10 @@ I am a Cybersecurity Student with a great intrest in Network Security and Script
 </div>
 
 ## Projects
-
+Email Analyser:
+https://github.com/MmesoCS07/Phishing-Check-/tree/main
+SOC Intel Analyser :
+https://github.com/MmesoCS07/SOC-Intel-Analyser
 
 ### Packet Tracer Projects
 - Small Business Network Design
